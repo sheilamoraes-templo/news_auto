@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+pandas
+schedule
+python-dotenv
+feedparser
+newspaper3k
+nltk
+textblob
