@@ -2,6 +2,26 @@
 import os
 from datetime import datetime
 
+# --- adicione perto do topo do config.py ---
+def getenv_int(name: str, default: int) -> int:
+    raw = os.getenv(name, "")
+    if raw is None:
+        return default
+    raw = str(raw).strip()
+    try:
+        return int(raw) if raw else default
+    except ValueError:
+        return default
+
+def getenv_bool(name: str, default: bool = False) -> bool:
+    raw = os.getenv(name, "")
+    if raw is None:
+        return default
+    return str(raw).strip().lower() in ("1", "true", "yes", "on")
+
+# --- e abaixo, use as helpers em vez de int(os.getenv(...)) ---
+
+
 # URLs das fontes de notícias
 NEWS_SOURCES = {
     'g1_tecnologia': {
@@ -39,7 +59,8 @@ COLLECTION_CONFIG = {
 # Configurações de saída
 OUTPUT_CONFIG = {
     # Em GitHub Actions: deixe False (só e-mail) ou ative com SAVE_TO_FILE=true
-    'save_to_file': os.getenv('SAVE_TO_FILE', 'False').lower() == 'true',
+    'save_to_file': getenv_bool('SAVE_TO_FILE', False),
+
     'save_to_email': True,                  # Enviar por e-mail
     'output_directory': 'output',
     'file_format': os.getenv('FILE_FORMAT', 'html'),  # 'html' é ideal p/ e-mail
@@ -50,7 +71,8 @@ OUTPUT_CONFIG = {
 # Configurações de e-mail (lidas de variáveis de ambiente / Secrets no GitHub)
 EMAIL_CONFIG = {
     'smtp_server': os.getenv('SMTP_HOST', 'smtp.gmail.com'),
-    'smtp_port': int(os.getenv('SMTP_PORT', '587')),
+   'smtp_port': getenv_int('SMTP_PORT', 587),
+
     'smtp_username': os.getenv('SMTP_USER', ''),        # setado via Secret
     'smtp_password': os.getenv('SMTP_PASS', ''),        # setado via Secret
     'use_tls': True,
