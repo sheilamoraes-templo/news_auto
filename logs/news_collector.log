@@ -1,0 +1,214 @@
+2025-08-14 00:18:16,005 - scheduler - INFO - Agendador de notícias inicializado
+2025-08-14 00:18:16,565 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 00:23:27,461 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 00:23:27,843 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 00:23:29,844 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 00:23:30,373 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 00:23:32,374 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 00:23:32,565 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 00:23:34,566 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 00:23:34,567 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 00:23:34,567 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 00:23:34,629 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_002334.csv
+2025-08-14 00:23:34,632 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_002334.json
+2025-08-14 00:23:34,634 - data_processor - INFO - Notícias salvas em HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_002334.html
+2025-08-14 00:23:34,637 - data_processor - INFO - Resumo diário salvo: C:\repositorio_dev\news_auto\output\resumo_diario_20250814.json
+2025-08-14 00:25:25,202 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 00:25:25,588 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 00:25:27,590 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 00:25:28,252 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 00:25:30,253 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 00:25:30,420 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 00:25:32,422 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 00:25:32,422 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 00:25:32,423 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 00:25:32,431 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_002532.csv
+2025-08-14 00:25:32,434 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_002532.json
+2025-08-14 00:25:32,436 - data_processor - INFO - Notícias salvas em HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_002532.html
+2025-08-14 00:25:32,438 - data_processor - INFO - Resumo diário salvo: C:\repositorio_dev\news_auto\output\resumo_diario_20250814.json
+2025-08-14 00:49:12,025 - scheduler - INFO - Agendador de notícias inicializado
+2025-08-14 00:49:12,075 - scheduler - INFO - Iniciando agendador de notícias
+2025-08-14 00:49:12,076 - scheduler - INFO - Iniciando coleta agendada de notícias
+2025-08-14 00:49:12,076 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 00:49:12,950 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 00:49:14,951 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 00:49:15,460 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 00:49:17,461 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 00:49:17,664 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 00:49:19,665 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 00:49:19,666 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 00:49:19,666 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 00:49:21,247 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_004919.csv
+2025-08-14 00:49:21,249 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_004921.json
+2025-08-14 00:49:21,251 - data_processor - INFO - Notícias salvas em HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_004921.html
+2025-08-14 00:49:21,252 - scheduler - INFO - Resultados salvos em:
+2025-08-14 00:49:21,252 - scheduler - INFO -   CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_004919.csv
+2025-08-14 00:49:21,252 - scheduler - INFO -   JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_004921.json
+2025-08-14 00:49:21,252 - scheduler - INFO -   HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_004921.html
+2025-08-14 00:49:21,253 - scheduler - INFO - Coleta concluída em 9.18 segundos
+2025-08-14 00:49:21,253 - scheduler - INFO - Total de notícias coletadas: 22
+2025-08-14 00:53:05,894 - scheduler - INFO - Agendador de notícias inicializado
+2025-08-14 00:53:05,895 - scheduler - INFO - Iniciando agendador de notícias
+2025-08-14 00:53:05,895 - scheduler - INFO - Iniciando coleta agendada de notícias
+2025-08-14 00:53:05,895 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 00:53:06,608 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 00:53:08,663 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 00:53:09,328 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 00:53:11,329 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 00:53:11,544 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 00:53:13,546 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 00:53:13,548 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 00:53:13,549 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 00:53:13,556 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_005313.csv
+2025-08-14 00:53:13,559 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_005313.json
+2025-08-14 00:53:13,562 - data_processor - INFO - Notícias salvas em HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_005313.html
+2025-08-14 00:53:13,563 - scheduler - INFO - Resultados salvos em:
+2025-08-14 00:53:13,563 - scheduler - INFO -   CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_005313.csv
+2025-08-14 00:53:13,563 - scheduler - INFO -   JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_005313.json
+2025-08-14 00:53:13,564 - scheduler - INFO -   HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_005313.html
+2025-08-14 00:53:13,564 - scheduler - INFO - Coleta concluída em 7.67 segundos
+2025-08-14 00:53:13,564 - scheduler - INFO - Total de notícias coletadas: 22
+2025-08-14 01:00:11,422 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:00:11,932 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:00:13,934 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:00:14,620 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:00:16,622 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:00:16,812 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:00:18,813 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:00:18,813 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:00:18,814 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:00:18,851 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_010018.csv
+2025-08-14 01:00:18,853 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_010018.json
+2025-08-14 01:00:18,856 - data_processor - INFO - Notícias salvas em HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_010018.html
+2025-08-14 01:00:18,860 - data_processor - INFO - Resumo diário salvo: C:\repositorio_dev\news_auto\output\resumo_diario_20250814.json
+2025-08-14 01:09:38,064 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:09:38,702 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:09:40,703 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:09:41,536 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:09:43,538 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:09:43,710 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:09:45,738 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:09:45,739 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:09:45,739 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:09:45,803 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_010945.csv
+2025-08-14 01:09:45,831 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_010945.json
+2025-08-14 01:09:45,849 - data_processor - INFO - Notícias salvas em HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_010945.html
+2025-08-14 01:09:45,880 - data_processor - INFO - Resumo diário salvo: C:\repositorio_dev\news_auto\output\resumo_diario_20250814.json
+2025-08-14 01:10:36,716 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:10:37,065 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:10:39,066 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:10:39,582 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:10:41,583 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:10:42,173 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:10:44,174 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:10:44,174 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:10:44,175 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:10:44,184 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011044.csv
+2025-08-14 01:10:44,186 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011044.json
+2025-08-14 01:10:44,188 - data_processor - INFO - Notícias salvas em HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011044.html
+2025-08-14 01:10:44,191 - data_processor - INFO - Resumo diário salvo: C:\repositorio_dev\news_auto\output\resumo_diario_20250814.json
+2025-08-14 01:17:22,340 - scheduler - INFO - Agendador de notícias inicializado
+2025-08-14 01:17:22,342 - scheduler - INFO - Iniciando agendador de notícias
+2025-08-14 01:17:22,342 - scheduler - INFO - Iniciando coleta agendada de notícias
+2025-08-14 01:17:22,342 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:17:22,894 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:17:24,895 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:17:25,595 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:17:27,597 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:17:28,084 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:17:30,090 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:17:30,090 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:17:30,090 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:17:30,090 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011730.csv
+2025-08-14 01:17:30,133 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011730.json
+2025-08-14 01:17:30,167 - data_processor - INFO - Notícias salvas em HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011730.html
+2025-08-14 01:17:30,167 - scheduler - INFO - Resultados salvos em:
+2025-08-14 01:17:30,167 - scheduler - INFO -   CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011730.csv
+2025-08-14 01:17:30,167 - scheduler - INFO -   JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011730.json
+2025-08-14 01:17:30,167 - scheduler - INFO -   HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011730.html
+2025-08-14 01:17:30,167 - scheduler - INFO - Coleta concluída em 7.83 segundos
+2025-08-14 01:17:30,167 - scheduler - INFO - Total de notícias coletadas: 22
+2025-08-14 01:17:48,445 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:17:49,090 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:17:51,092 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:17:51,620 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:17:53,622 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:17:53,834 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:17:55,835 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:17:55,835 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:17:55,836 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:17:55,845 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011755.csv
+2025-08-14 01:17:55,866 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011755.json
+2025-08-14 01:17:55,867 - root - ERROR - Erro na coleta de teste: 'NoneType' object is not subscriptable
+2025-08-14 01:18:19,933 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:18:20,379 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:18:22,388 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:18:22,907 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:18:24,909 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:18:25,084 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:18:27,089 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:18:27,089 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:18:27,089 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:18:27,163 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011827.csv
+2025-08-14 01:18:27,190 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011827.json
+2025-08-14 01:18:27,190 - root - ERROR - Erro na coleta de teste: 'NoneType' object is not subscriptable
+2025-08-14 01:18:48,736 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:18:49,165 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:18:51,167 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:18:51,853 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:18:53,855 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:18:54,004 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:18:56,005 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:18:56,005 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:18:56,005 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:18:56,015 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011856.csv
+2025-08-14 01:18:56,018 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011856.json
+2025-08-14 01:18:56,018 - root - ERROR - Erro na coleta de teste: 'NoneType' object is not subscriptable
+2025-08-14 01:19:04,243 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:19:04,684 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:19:06,685 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:19:07,170 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:19:09,185 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:19:09,358 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:19:11,359 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:19:11,360 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:19:11,360 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:19:11,369 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011911.csv
+2025-08-14 01:19:11,372 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011911.json
+2025-08-14 01:19:11,372 - root - ERROR - Erro na coleta de teste: 'NoneType' object is not subscriptable
+2025-08-14 01:19:21,038 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:19:21,424 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:19:23,429 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:19:23,992 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:19:25,993 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:19:26,135 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:19:28,144 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:19:28,144 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:19:28,144 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:19:28,151 - data_processor - INFO - Notícias salvas em CSV: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011928.csv
+2025-08-14 01:19:28,158 - data_processor - INFO - Notícias salvas em JSON: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011928.json
+2025-08-14 01:19:28,160 - data_processor - INFO - Notícias salvas em HTML: C:\repositorio_dev\news_auto\output\noticias_tecnologia_20250814_011928.html
+2025-08-14 01:19:28,162 - data_processor - INFO - Resumo diário salvo: C:\repositorio_dev\news_auto\output\resumo_diario_20250814.json
+2025-08-14 01:19:31,558 - data_processor - INFO - Email enviado com sucesso para: ['sheila.moraes@templo.cc']
+2025-08-14 01:21:37,344 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:21:37,735 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:21:39,737 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:21:40,269 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:21:42,280 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:21:42,700 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:21:44,701 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:21:44,701 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:21:44,701 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:21:44,701 - data_processor - INFO - Resumo diário salvo: C:\repositorio_dev\news_auto\output\resumo_diario_20250814.json
+2025-08-14 01:21:48,265 - data_processor - INFO - Email enviado com sucesso para: ['sheila.moraes@templo.cc']
+2025-08-14 01:24:31,441 - news_collector - INFO - Iniciando coleta de g1_tecnologia
+2025-08-14 01:24:31,997 - news_collector - INFO - Coletadas 13 notícias do G1 Tecnologia
+2025-08-14 01:24:34,012 - news_collector - INFO - Iniciando coleta de folha_tec
+2025-08-14 01:24:34,522 - news_collector - INFO - Coletadas 20 notícias da Folha Tec
+2025-08-14 01:24:36,538 - news_collector - INFO - Iniciando coleta de uol_tilt
+2025-08-14 01:24:36,711 - news_collector - INFO - Coletadas 20 notícias do UOL Tilt
+2025-08-14 01:24:38,713 - news_collector - INFO - Removidas 5 duplicatas
+2025-08-14 01:24:38,713 - news_collector - INFO - Filtradas 26 notícias por palavras-chave
+2025-08-14 01:24:38,713 - news_collector - INFO - Coleta concluída. Total de 22 notícias únicas
+2025-08-14 01:24:38,713 - data_processor - INFO - Resumo diário salvo: C:\repositorio_dev\news_auto\output\resumo_diario_20250814.json
+2025-08-14 01:24:42,556 - data_processor - INFO - Email enviado com sucesso para: ['sheila.moraes@templo.cc']
